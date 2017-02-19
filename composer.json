@@ -1,0 +1,16 @@
+{
+  "name": "rst-group/recruitment-conference-system",
+  "require": {
+    "php" : ">=5.5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "RstGroup\\Recruitment\\ConferenceSystem\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "RstGroup\\Recruitment\\ConferenceSystem\\Test\\": "test/"
+    }
+  }
+}
