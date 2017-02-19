@@ -17,6 +17,6 @@ class ConferenceRepository
      */
     public function getConference($conferenceId)
     {
-        return new Conference();
+        
     }
 }
